@@ -31,10 +31,10 @@ cohesive, subscription-based service designed for businesses and organizations.
  which are often integrated with Classroom. 
 
 ### Key Tips for Success
-. Training Resources: Utilize the Google Workspace Learning Center for tutorials on using
+- Training Resources: Utilize the Google Workspace Learning Center for tutorials on using
      tools like Docs, Sheets, and Drive.
-. Security: Enable 2-step verification for your school account to ensure data safety.
-. Offline Access: Configure Drive for offline access to work on files without an internet
+- Security: Enable 2-step verification for your school account to ensure data safety.
+- Offline Access: Configure Drive for offline access to work on files without an internet
     connection. 
 
 *If you are not provided with a school account, you may be able to sign up with a personal
@@ -54,16 +54,16 @@ cohesive, subscription-based service designed for businesses and organizations.
 11. Google Sites: For building projects, portfolios, and websites. 
 
 ### Advanced & AI Tools for Students
-. Gemini (AI App): AI assistant for brainstorming, summarizing, and writing assistance.
-. NotebookLM: AI-powered research assistant to analyze documents and take notes.
-. Google Assignments: Used within Learning Management Systems to create, analyze, and grade student work. 
+- Gemini (AI App): AI assistant for brainstorming, summarizing, and writing assistance.
+- NotebookLM: AI-powered research assistant to analyze documents and take notes.
+- Google Assignments: Used within Learning Management Systems to create, analyze, and grade student work. 
 
-###Support & Learning Resources
-. Google Workspace Learning Center: Guides, tips, and tutorials for learning how to use the apps.
-. Google Student Blog: Tips and updates specifically for students.
-. Workspace Marketplace (Education): Find add-ons for Google Forms, Slides, and Docs to improve functionality. 
+### Support & Learning Resources
+- Google Workspace Learning Center: Guides, tips, and tutorials for learning how to use the apps.
+- Google Student Blog: Tips and updates specifically for students.
+- Workspace Marketplace (Education): Find add-ons for Google Forms, Slides, and Docs to improve functionality. 
 
-###Key Tips for Students
+### Key Tips for Students
 1. Keep it Separate: Always use a school-issued Google account to access these services to ensure compliance
  and access to premium features (like originality reports for plagiarism).
 2. Offline Access: Enable offline mode in Google Drive settings to work on Docs, Sheets, and Slides without
