@@ -1,82 +1,71 @@
+## Google Workspace
 
+**Google WorkSpace** is a cloud-based productivity and collaboration suite developed 
+by Google (originally created under founders Larry Page and Sergey Brin). Formerly known 
+as G Suite, it integrates apps like Gmail, Docs, Drive, Calendar, Meet, and Sheets into a
+cohesive, subscription-based service designed for businesses and organizations.
 
-CANVA 
-     
-**CANVA**
-Canva is a popular, user-friendly online graphic design platform launched in 2013 that enables users to create social media graphics, presentations, videos, documents, and other visual content. It is designed for non-designers and professionals alike, offering a drag-and-drop interface, thousands of templates, and AI-powered tools.
+### Why Students Should Use It
+1. Real-Time Collaboration: Students can work simultaneously on documents, spreadsheets, 
+    and presentations, making group projects more efficient.
+2. Seamless Accessibility: Files are stored in the cloud (Google Drive), allowing access
+    from home, school, or on mobile devices.
+3. Organization and Communication: Google Classroom acts as a central hub for assignments,
+  announcements, and grades, while Gmail and Calendar keep students organized.
+4. Interactive Learning: Tools like Jamboard, Meet, and Slides encourage creative engagement 
+    and participation.
+5. Digital Skill Building: Using these tools prepares students for future professional
+    environments that rely on cloud-based technology.
+6. Accessibility Features: Built-in tools like voice typing, closed captions, and screen 
+    readers support diverse learning needs.
 
+### How to Get Started.
+1. Sign In: Log in to Google Workspace with your school-issued email address.   
+2. Access Apps: Click the nine-dot menu icon (apps menu) in the top right corner of
+    any Google page to access Gmail, Drive, Docs, Sheets, and Slides.
+3. Join Google Classroom: Go to classroom.google.com and enter the unique class code 
+    provided by your instructor to join your courses.
+4. Organize with Drive: Use Google Drive to create folders, upload files, and collaborate 
+   on assignments in real-time.
+5. Manage Schedule: Use Google Calendar to keep track of assignments and virtual meetings,
+ which are often integrated with Classroom. 
 
-   ### **Why Students Should Use It**
-1. Boosts Creativity & Productivity: Canva's intuitive drag-and-drop editor and vast library of templates allow students to quickly produce engaging visual content for assignments and projects.
-2. Enhances Collaboration: Multiple users can work on the same design in real-time, making it an excellent tool for group projects.
-3. Prepares for the Workforce: It builds practical, real-world skills in visual communication, which is a highly sought-after ability by hiring managers.
-4. Professionalizes Assignments: It offers templates for resumes, portfolios, presentations, and reports, helping students stand out.
-4. AI Integration: Features like Magic Write, Design for Me, and AI Image Generation help spark creativity and overcome writer's block.
-5. Integrates with Classroom Tools: It connects with popular Learning Management Systems (LMS) like Google Classroom, Canvas, and Blackboard, allowing for seamless assignment creation and submission.
-6. Free Education Resources: Canva for Education is free for teachers and students, offering premium content and features at no cost
+### Key Tips for Success
+- Training Resources: Utilize the Google Workspace Learning Center for tutorials on using
+     tools like Docs, Sheets, and Drive.
+- Security: Enable 2-step verification for your school account to ensure data safety.
+- Offline Access: Configure Drive for offline access to work on files without an internet
+    connection. 
 
-
-### How to Get Started
-1. Sign Up: Create a free account to get access, or try a 30-day Pro trial to access premium features.
-2. Choose a Project Type: Use the search bar or categories (e.g., "Instagram Post," "Flyer") to get the correct dimensions automatically.
-2. Use Templates: Select a template to start with, then customize it with your own text and colors, rather than### Key Tips for Success
- starting from scratch.
-3. Understand the Editor: The left-hand panel is for tools (Elements, Text, Uploads), while the top menu handles file settings.
-4. Finalize and Save: Once finished, use the "Share" button to download your design, share a link, or post directly to social media.
-
-
- ### Key Tips for Success
-* Design & Styling Fundamentals
-* Limit Your Fonts: Use a maximum of 2-3 fonts to keep designs clean, pairing a header font with a simpler body font.
-* Establish a Color Palette: Stick to 1–3 primary colors and 1–3 secondary colors for a consistent look. Use the color wheel to find complementary shades.
-* Embrace White Space: Do not feel the need to fill every corner; whitespace allows elements to breathe and improves readability.
-* Use Proper Alignment: Utilize Canva’s alignment tools and rulers to ensure elements are perfectly aligned, which creates a professional look.
-* Establish Hierarchy: Make the most important information the most visually dominant using size, color, and placement.
-
+*If you are not provided with a school account, you may be able to sign up with a personal
+ account, although premium education features require an institutional account.* 
 
 ### Useful Apps
+1. Google Classroom: The main hub for classes, assignments, and announcements.
+2. Google Drive: Cloud storage to store, access, and share files from any device.
+3. Google Docs: Word processing for writing papers and collaborating in real-time.
+4. Google Slides: Presentation tool for creating presentations.
+5. Google Sheets: Spreadsheets for data analysis and organizing projects.
+6. Gmail: Email for school communication.
+7. Google Calendar: Scheduling classes, assignment deadlines, and meetings.
+8. Google Meet: Video conferencing for virtual classes and group projects.
+9. Google Forms: For creating surveys and collecting data.
+10.Google Keep: For taking quick notes, making checklists, and setting reminders.
+11. Google Sites: For building projects, portfolios, and websites. 
 
-**Top Recommended Canva Apps by Category:**
-1. Design & Layout:
-- Bulk Create: Ideal for creating personalized business cards, certificates, or social media posts in bulk.
-- Smart mockups: Places designs onto realistic scenes (phones, t-shirts, mugs) without leaving Canva.
-- Frame Maker: Creates custom, unique photo frames.
-- Replicator: Duplicates elements into grids or patterns.
-
-2.** AI & Image Enhancement:**
-- Background Remover: Instantly removes image backgrounds.
-- Magic Edit: Replaces or adds elements to photos using AI.
-- Pixel Enhancer: Boosts the quality and sharpness of images.
-- Design to Image: Turns design layouts into new images.
-
-3. **Text & Effects:**
-- Type Gradient: Creates custom gradient colors for text.
-- Type Warp: Distorts text into waves, curves, and shapes.
-
-4. Functionality & External Integration:
-- Brand fetch: Easily finds official brand logos and colors.
-- QR Code: Generates customizable QR codes for websites or events.
-- Translate: Instantly translates text in designs into over 100 languages.
-- Lottie Files: Adds animated icons and graphics to design
-
-
-*### Advanced AI Tools for Students**
-. Tools
-. QR code generator.
-. AI logo generator.
-. Signature generator.
-. Business name generator.
-. PDF converter.
-. PDF to JPG converter.
-. JPG to PDF converter.
-
+### Advanced & AI Tools for Students
+- Gemini (AI App): AI assistant for brainstorming, summarizing, and writing assistance.
+- NotebookLM: AI-powered research assistant to analyze documents and take notes.
+- Google Assignments: Used within Learning Management Systems to create, analyze, and grade student work. 
 
 ### Support & Learning Resources
- 1. Google Classroom
- 2. Schoology
- 3. Class link
- 4. PowerSchool
- 5. Infinite Campus
- 6. Aeries
- 7. Skyward
- 8. Global Grid for Learning
+- Google Workspace Learning Center: Guides, tips, and tutorials for learning how to use the apps.
+- Google Student Blog: Tips and updates specifically for students.
+- Workspace Marketplace (Education): Find add-ons for Google Forms, Slides, and Docs to improve functionality. 
+
+### Key Tips for Students
+1. Keep it Separate: Always use a school-issued Google account to access these services to ensure compliance
+ and access to premium features (like originality reports for plagiarism).
+2. Offline Access: Enable offline mode in Google Drive settings to work on Docs, Sheets, and Slides without
+ internet access.
+3. Collaboration: Use the "Share" button to collaborate with peers in real-time on any document or project
