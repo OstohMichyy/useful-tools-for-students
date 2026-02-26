@@ -19,7 +19,7 @@ cohesive, subscription-based service designed for businesses and organizations.
 6. Accessibility Features: Built-in tools like voice typing, closed captions, and screen 
     readers support diverse learning needs.
 
-### How to Get Started
+### How to Get Started.
 1. Sign In: Log in to Google Workspace with your school-issued email address.   
 2. Access Apps: Click the nine-dot menu icon (apps menu) in the top right corner of
     any Google page to access Gmail, Drive, Docs, Sheets, and Slides.
